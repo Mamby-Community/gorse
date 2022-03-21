@@ -15,10 +15,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/Mamby-Community/gorse/worker"
 	"github.com/spf13/cobra"
 	"github.com/zhenghaoz/gorse/base"
 	"github.com/zhenghaoz/gorse/cmd/version"
-	"github.com/zhenghaoz/gorse/worker"
 	"go.uber.org/zap"
 	_ "net/http/pprof"
 )
