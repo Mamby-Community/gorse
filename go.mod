@@ -1,4 +1,4 @@
-module github.com/zhenghaoz/gorse
+module github.com/Mamby-Community/gorse
 
 go 1.14
 

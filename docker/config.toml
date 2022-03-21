@@ -23,7 +23,7 @@ auto_insert_user = true
 auto_insert_item = false
 
 # The feedback types for positive events.
-positive_feedback_types = ["star","like"]
+positive_feedback_types = ["like"]
 
 # The feedback types for read events.
 read_feedback_types = ["read"]
